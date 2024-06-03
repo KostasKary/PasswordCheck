@@ -1,1 +1,1 @@
-# PasswordCheck
+Checks if the password is valid
